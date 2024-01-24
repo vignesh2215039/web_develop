@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <center>  <head><title> Events</title>
+    <link rel="icon" href="img/date.jpeg"></head>
+    <body bgcolor="black" style="color: white;">
+    <h1> Upcoming Events</h1>
+    <h3> Don't miss this oppurtunity</h3>
+    <hr></hr>
+    <p>The software industry plays a pivotal role in the global economy, driving innovation, enhancing productivity, and shaping the way individuals and businesses operate. This dynamic sector encompasses a wide range of activities, from the development of operating systems and applications to cloud computing, artificial intelligence, and cybersecurity. The software industry has undergone significant transformations over the years, evolving in response to technological advancements and changing market demands.</p>
+    <img src="img/ssn.jpeg" width="50%">
+    <h1> Photo gallery Events</h1>
+    <h2> Don't miss this oppurtunity</h2>
+    <h3>driving innovation, enhancing productivity, and shaping</h3>
+    <img src="img/IT.jpeg" width="50%">
+    <a href="https://www.flipkart.com" target="_blank"> <h1> Fashion store </h1></a>
+</center>
+</body>
+</html>
